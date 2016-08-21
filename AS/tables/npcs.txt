@@ -1,0 +1,84 @@
+new_1-3 97 41 Swordman#newbe10
+new_1-3 101 41 Nun#newbe10
+new_1-3 117 41 Mage#newbe10
+new_1-3 105 41 Thief#newbe10
+new_1-3 109 41 Merchant#newbe10
+new_1-3 113 41 Archer#newbe10
+new_1-3 103 50 Trainer
+new_1-3 100 50 Merchant#newbe09
+izlu2dun 106 58 Kafra Staff
+izlu2dun 104 91 Bulletin Board#izlude
+new_3-3 96 30 Brade#newbe04
+new_3-3 97 41 Swordman#newbe10
+new_3-3 101 41 Nun#newbe10
+new_3-3 105 41 Thief#newbe10
+new_3-3 109 41 Merchant#newbe10
+new_3-3 113 41 Archer#newbe10
+new_3-3 117 41 Mage#newbe10
+new_3-3 100 50 Merchant#newbe09
+new_3-3 103 50 Trainer
+prontera 105 87 Gift Merchant
+prontera 148 49 Bulletin Board#pron
+prontera 151 29 Kafra Staff
+payon 162 67  ไกด์นำทาง 
+prontera 160 29  ไกด์ประตูทิศใต้ 
+moc_ruins 141 125  Bogus Man 
+payon_in01 5 49 Tool Dealer
+payon 176 85  ชายหนุ่ม 
+payon 179 66 Dasa#09tuto_rhea07
+payon 159 96 Tool Dealer
+payon 181 104 Kafra Staff
+payon 186 104 Smile Helper
+payon 178 108 Bulletin Board#payon
+payon 103 63 Gaeho
+izlude 134 88 Kafra Staff
+izlude 121 87  ไกด์นำทาง 
+izlude 131 116 Bulletin Board#izlude
+izlude 129 118 Smile Helper
+izlude 150 118 Dega
+izlude 150 143 Kylick
+izlude_in 115 61 Tool Dealer
+izlude_in 129 64 Monster Tamer
+izlude 135 78 Charfri
+izlude 164 138 Pet Groomer
+izlude 171 185 Marriage Staff#Izlude I
+izlude 182 186 Edgar
+izlude 201 181 กะลาสี
+izlude 94 98 Fruit Gardener
+izlude 105 99 Butcher
+izlude 119 121 Cuskoal
+izlude 105 92 Vendor from Milk Ranch
+geffen 132 38 Bard#2
+geffen 119 48 Fountain#s
+geffen 111 48  ผู้หญิง  
+geffen 120 62 Kafra Staff
+geffen 118 62  ไกด์นำทาง 
+geffen 124 65 Bulletin Board#geffen
+geffen 111 66  ไอเทมสะดวกใช้ 
+geffen 111 69  ไอเทมเช่า 
+geffen 122 77 Niel#yagu
+geffen 110 64  ไอเทมทั่วไป 
+geffen 109 66 Suhnbi
+geffen 108 64  ไอเทมพิเศษ 
+morocc 146 43 Jeweler
+morocc 166 51 Jeweler
+morocc 155 69 Trader
+morocc 140 83  ไอเทมเช่า 
+morocc 135 79  ไอเทมสะดวกใช้ 
+morocc 133 79 Suhnbi
+morocc 129 79 Stylist
+morocc 127 79 Stylist
+morocc 137 80  ไอเทมทั่วไป 
+morocc 139 80  ไอเทมพิเศษ 
+geffen 103 42 Sponiac#09tuto_rhea02
+geffen 151 44  ชายหนุ่ม 
+geffen 173 88 Merchant#geff
+geffen_in 110 169 Guildsman#BLS
+geffen_in 110 172 Christopher
+geffen_in 144 166  ช่างตีเหล็ก 
+geffen_in 141 140 Morgenshtein
+geffen 67 87 Ayeepu
+geffen_in 74 144 Trader
+geffen_in 77 167 Tool Dealer
+geffen_in 77 173 Magical Item Seller
+gef_fild08 211 24 Bulletin Board#kobold2

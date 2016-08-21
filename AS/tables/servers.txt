@@ -1,0 +1,27 @@
+# This file contains information about master servers.
+
+# To change displayed string in server list, use "title" option.
+
+# Do not change server identifiers (in []),
+# except for when subservers were changed or reordered
+# in such a way it requires user confirmation to correctly select a subserver
+
+#####################
+# Official RO Servers
+[Thailand - tRO Main server (EXE)]
+ip 103.55.55.12
+port 6900
+master_version 7
+version 24
+serverType tRO
+secureLogin 0
+secureLogin_type 0
+secureLogin_account 0
+secureLogin_requestCode
+pauseCharServer 1
+patchserver wpatch.ragnarok.in.th
+patchpath /patch70
+serverEncoding Thai
+addTableFolders tRO
+charBlockSize 144
+gameguard 1
