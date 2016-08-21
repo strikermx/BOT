@@ -1,0 +1,125 @@
+---------- Storage Aug 21 12:14:00 2016 -----------
+ 0 Potato x 7
+ 1 Strawberry x 3
+ 2 Green Herb x 530
+ 3 Trunk x 1
+ 4 Iron Ore x 37
+ 5 Red Herb x 44
+ 6 Red Gemstone x 1
+ 7 Unripe Apple x 1
+ 8 Red Potion x 446
+ 9 Blue Gemstone x 93
+10 Earthworm the Dude x 2
+11 Detrimindexta x 16
+12 Concentration Potion x 2
+13 Vadon Card x 1
+14 Deadly Noxious Herb x 1
+15 Sardonyx x 3
+16 Grape x 249
+17 Aquamarine x 8
+18 Cornutus Card x 1
+19 Panacea x 2
+20 Orange Potion x 18
+21 Tendon x 1
+22 Poison Spore x 260
+23 Apple x 282
+24 Fluff x 103
+25 Sticky Webfoot x 67
+26 Yellow Herb x 205
+27 Unknown #6260 x 179
+28 Tree Root x 46
+29 Jellopy x 41
+30 Shell x 161
+31 Detonator x 1
+32 Siege Blue Potion x 50
+33 Siege Blue Potion x 50
+34 Siege Blue Potion x 50
+35 Siege Blue Potion x 50
+36 Siege Blue Potion x 50
+37 Empty Bottle x 20
+38 Mushroom Spore x 35
+39 Resin x 9
+40 Barren Trunk x 27
+41 Chrysalis x 25
+42 Blue Herb x 2
+43 Powder of Butterfly x 4
+44 Feather x 7
+45 Clover x 16
+46 Spawn x 3
+47 Red Blood x 31
+48 Solid Trunk x 11
+49 Siege Blue Potion x 50
+50 Siege Blue Potion x 50
+51 Siege Blue Potion x 50
+52 Siege Blue Potion x 50
+53 Fine-grained Trunk x 5
+54 Siege Blue Potion x 50
+55 Siege Blue Potion x 50
+56 Siege Blue Potion x 50
+57 Siege Blue Potion x 50
+58 Siege Blue Potion x 50
+59 PoPoring Card x 1
+60 Stone Heart x 2
+61 Siege Blue Potion x 50
+62 Siege Blue Potion x 50
+63 Siege Blue Potion x 50
+64 Siege Blue Potion x 50
+65 Magnifier x 14
+66 Siege Blue Potion x 50
+67 Siege Blue Potion x 50
+68 Siege Blue Potion x 50
+69 Rainbow Shell x 60
+70 Aloevera x 14
+71 Sky Petite Card x 2
+72 Earth Petite Card x 2
+73 Kobold Card x 1
+74 Wind of Verdure x 1
+75 White Herb x 539
+76 White Potion x 204
+77 Dragon Canine x 1262
+78 Sticky Mucus x 272
+79 Dragon Scale x 501
+80 Dragon Tail x 96
+81 Zargon x 310
+82 Blue Hair x 291
+83 Elunium x 18
+84 Garlet x 77
+85 Rough Oridecon x 29
+86 Steel x 19
+87 Rough Elunium x 1
+88 Novice Guard x 1
+89 Novice False Eggshell x 1
+90 Somber Novice Hood x 1
+91 Novice Slippers x 1
+92 Damascus [1] x 1
+93 Padded Armor [Swordfish] [1] x 1
+94 Tattered Novice Ninja Suit x 1
+95 Novice False Eggshell x 1
+96 Novice Slippers x 1
+97 Somber Novice Hood x 1
+98 Novice Guard x 1
+99 Hat [1] x 1
+100 Hat [1] x 1
+101 Katar [1] x 1
+102 Hammer [3] x 1 -- Not Identified
+103 Guard x 1 -- Not Identified
+104 Main Gauche [3] x 1 -- Not Identified
+105 Flail [2] x 1 -- Not Identified
+106 Guard x 1 -- Not Identified
+107 Flail [2] x 1 -- Not Identified
+108 Guard x 1 -- Not Identified
+109 Guard x 1 -- Not Identified
+110 Flail [2] x 1 -- Not Identified
+111 Guard x 1 -- Not Identified
+112 Flail [2] x 1 -- Not Identified
+113 Flail [2] x 1 -- Not Identified
+114 Flail [2] x 1 -- Not Identified
+115 Flail [2] x 1 -- Not Identified
+116 Novice False Eggshell x 1
+117 Somber Novice Hood x 1
+118 Club [4] x 1 -- Not Identified
+119 Flail [2] x 1 -- Not Identified
+120 Flail [2] x 1 -- Not Identified
+
+Capacity: 121/300
+-------------------------------
